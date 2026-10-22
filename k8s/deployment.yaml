@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: student-k8s-demo
-          image: oliveprishita/student-k8s-demo:ba8f0f9
+          image: oliveprishita/student-k8s-demo:ba8f0f9cdfd6f7d64d39656eae2875e0053b3c7e
           ports:
             - containerPort: 5000
 
